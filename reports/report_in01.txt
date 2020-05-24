@@ -1,0 +1,7 @@
+== Deliveries Report ==
+(-2, 6) direction West
+(-1, 5) direction South
+(0, 2) direction West
+drone empty, go for more lunches to restaurant
+(-1, 3) direction East
+(2, 4) direction South
